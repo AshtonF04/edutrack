@@ -20,7 +20,7 @@ const CoursePage = (props) => {
         </View>
 
         {/* Link to return to course page */}
-        <Link className="text-[#1DCF6F] text-lg" href="/">
+        <Link className="text-[#1DCF6F] text-lg" href="/dashboard">
           <Text>{"< Courses"}</Text>
         </Link>
 
